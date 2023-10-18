@@ -1,0 +1,12 @@
+<resources>
+        <string name="txt1">SAWSA</string>
+        <string name="txt2">Water Bill Calculator</string>
+        <string name="txt3">Cubic Meter Used</string>
+        <string name="txt5">Previous Meter Reading</string>
+        <string name="txt6">Current Meter Reading</string>
+        <string name="txt7">Total Water Consumed:</string>
+        <string name="txt8">Total Amount: </string>
+        <string name="txt9">Cubic Rate </string>
+        <string name="txt10">San Antonio Water System Association</string>
+        <string name="btn">Calculate </string>
+</resources>
